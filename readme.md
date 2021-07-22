@@ -1,4 +1,5 @@
 ## Welcome to Rohith Palem's Repo
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awspalem/repos.git/HEAD)
 
 ### This is a base repo for my pet projects.
 
